@@ -1,0 +1,44 @@
+.bg {
+    content : "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity : 1;
+    background-image: url('./lib.jpg');
+    background-size: cover;
+    background-repeat:   repeat-y;
+    background-position: center center;
+    z-index: -1;
+}
+
+.bg1 {
+  position: absolute;
+  background-color: white;
+  top:25%;
+  height: 40%;
+  width: 70%;
+  opacity: 0.5;
+  left: 15%;
+  z-index:-1;
+}
+
+.welcome{
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  width: 65%;
+  color: black;
+  z-index: 5;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", Monaco, "Bitstream Vera Sans Mono", monospace;
+  font-size: 28px;
+}
+
+.welcome h1{
+
+  font-weight: bold;
+  font-size: 50px;
+}

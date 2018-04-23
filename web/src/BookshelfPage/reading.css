@@ -1,0 +1,38 @@
+.status{
+  text-align: center;
+  /*border-style: dotted;*/
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+  font-weight: bolder;
+
+}
+
+.des{
+  border-bottom: 1px solid #D8D8D8;
+  padding-bottom: 5px;
+}
+
+.lan{
+  border-bottom: 1px solid #D8D8D8;
+  padding-bottom: 15px;
+  margin-top: 8px;
+}
+
+.marg{
+  margin-right:20px;
+}
+
+.add_notes{
+  padding-bottom: 30px;
+}
+
+.oper{
+  padding-top: 10px;
+}
+
+.author{
+   font-family: Century Gothic, sans-serif;
+}
+
+.rating{
+  margin-top: -1em;
+}
