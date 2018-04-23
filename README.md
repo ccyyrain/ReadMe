@@ -1,14 +1,10 @@
-# Module 3 Group Assignment: Note-a-matic
+# JustReadMe
 
-CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/d/13q79EywC9TzWts9K-10b_tKA-ZVyv9_avWGJpgprA6A)
+A website for readers to search books and record their notes during reading. The web application is based on React.
 
-## App Info:
-
-* Team Name: Great Firewall
-* App Name: Just ReadMe!
 * App Link: <https://agile-reaches-90364.herokuapp.com/>
 
-### Students
+## Memembers:
 
 * Yu Cui, cuixx322@umn.edu
 * Tian Nan, nanxx026@umn.edu
@@ -18,12 +14,10 @@ CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/
 
 ## Key Features
 
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
 
 * Search book in Google API and local shelves
 * List books in shelf in rows
-* understand the props and state flow
+* Understand the props and state flow
 
 
 ## Screenshots of Site
@@ -39,14 +33,6 @@ CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/
 ![Alt text](note.png?raw=true "Optional Title")
 ## External Dependencies
 
-**Document integrations with 3rd Party code or services here.
-Please do not document required libraries (e.g., Express, Bulma).**
-
 * Google Book Search Api: to search the books in google book library
-* dummyimage Api:to provide dummyimage for the books without a cover
+* Dummyimage Api:to provide dummyimage for the books without a cover
 
-**If there's anything else you would like to disclose about how your project
-relied on external code, expertise, or anything else, please disclose that
-here:**
-
-...
